@@ -1,0 +1,7 @@
+baseURL: https://dking.xyz
+languageCode: en-us
+title: Daniel King
+theme: ananke
+
+# Enable syntax highlighting in Markdown ``` code blocks.
+pygmentsCodeFences: true
